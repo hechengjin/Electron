@@ -16,3 +16,4 @@ Electron - 创建跨平台的桌面客户的应用程序
 	
 程序运行：
 E:\zhaomokeje\Electron\electron\electron.exe E:\zhaomokeje\Electron\electron-quick-start
+E:\zhaomokeje\Electron\electron\electron.exe E:\zhaomokeje\Electron\Firemail
